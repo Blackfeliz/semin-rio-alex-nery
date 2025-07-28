@@ -36,3 +36,5 @@ integral_aprox = h * soma
 
 print(f"\nNúmero de subintervalos necessário: {n}")
 print(f"Valor aproximado da integral: {integral_aprox:.8f}")
+print(f"\nNúmero de subintervalos necessário: {n}")
+print(f"Valor aproximado da integral: {integral_aprox:.8f}")
